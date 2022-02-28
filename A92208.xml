@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A grain of incense or Supplication for the peace of Jerusalem, the church and state. / By J.R.</title>
+            <author>Reading, John, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92208</idno>
+            <idno type="STC">Wing R446</idno>
+            <idno type="STC">Thomason E1144_5</idno>
+            <idno type="STC">ESTC R208499</idno>
+            <idno type="EEBO-CITATION">99867445</idno>
+            <idno type="PROQUEST">99867445</idno>
+            <idno type="VID">169408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169408)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 164:E1144[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A grain of incense or Supplication for the peace of Jerusalem, the church and state. / By J.R.</title>
+                  <author>Reading, John, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.R. = John Reading.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 8."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers for peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169408:1"/>
+            <pb facs="tcp:169408:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Grain of Incenſe: OR SUPPLICATION For the Peace of</hi> JER<g ref="char:V">Ʋ</g>SALEM, <hi>THE CHURCH and STATE.</hi>
+            </p>
+            <p>
+               <hi>By</hi> J. R.</p>
+            <q>
+               <bibl>PSALM 122. 6.</bibl>
+               <p>Pray for the peace of <hi>Jeruſalem;</hi> they ſhall proſper that love thee.</p>
+            </q>
+            <q>
+               <bibl>JAMES 5. 16.</bibl>
+               <p>—Pray one for another, that yee may be healed: the effectuall fervent prayer of a righteous man availeth much.</p>
+            </q>
+            <p>London, <hi>Printed</hi> Anno Dom. <hi>1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:169408:2"/>
+            <pb facs="tcp:169408:2"/>
+            <head>A Grain of Incenſe: OR, SVPPLICATION For the Peace of <hi>Jeruſalem,</hi> the CHURCH and STATE.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Eternall God, and moſt gracious Father, abundant in mercy and truth, ſlow to an<g ref="char:EOLhyphen"/>ger, and of great patience towards miſe<g ref="char:EOLhyphen"/>rable ſinners, whoſe death thou deſireſt not, but their converſion; We humbly acknowledge, That not onely this heavy rod of Iron (wherewith thou doſt now chaſtiſe us, in a dreadfull and devouring Civill War) is due untous, by reaſon of our great and grievous ſins, but alſo all thoſe plagues which thou haſt ſealed up in the Book of thy Laws, againſt obſtinate and impenitent ſinners: For we have broken all thy holy Commandments, in the thoughts of our corrupted hearts, words of impure tongues, and works of our ſinfull hands; and that not in ignorance of thy holy will, that we might expect but few ſtripes, but even in the cleereſt light of thy Goſpel long beſtowed upon us; nor out of infirmity onely, that we might thence pretend to ſome excuſe, but out of wilfull preſumption we have caſt thy Laws behinde us, contemned thy Meſſengers, and ſtopped our ears to thoſe gracious Conditions of mercy and
+<pb facs="tcp:169408:3"/>
+peace which thou haſt with infinite mercy and long pati<g ref="char:EOLhyphen"/>ence, ſent to us by their Miniſtry, warning us of theſe very Iudgements which now are come upon us. O Lord, our ſins have, like a filthy Leproſie, over-ſpread every part and faculty of our bodies and ſouls, ſo that we are become loathſom in thy ſight, a ſinfull Nation, a People laden with iniquity: there is nothing ſound nor ſincere in us, which ſin, ſuperſtition, or profanation of thy holy Ordinan<g ref="char:EOLhyphen"/>ces hath not polluted: the vices and uncleanneſſe of other Nations have flowed in upon us: As thou haſt multiplied thy favours of peace and plenty upon us, ſo have we our re<g ref="char:EOLhyphen"/>bellions againſt thee, and our impiety towards men: ſo that even the righteous become a prey, juſtice is turned into wormwood, truth vaniſhed, oppreſſion and rapine every where exerciſed, and blood toucheth blood: So that the cries of the injured, and deep ſighing of the oppreſſed, daily aſ<g ref="char:EOLhyphen"/>cendeth into thy holy preſence, to provoke thy juſtice, and to ſolicite for revenge: And if we ſhould be charged by none other witneſſes, our own conſciences convince us; if we might be our own judges, our hearts condemn us: So that we cannot but expect that thou, who art the great Iudge of all the world, ſhouldſt now be avenged on this ſinfull Nation. But yet the Sanctuary door is not ſhut up; yet thou, who ſtill warneſt us by thy Meſſengers to return every man from his wicked wayes, therein profereſt mer<g ref="char:EOLhyphen"/>cy and free pardon to all thoſe who ſhall ſo do: Therefore, though our ſins teſtifie againſt us, deal with us according to thy mercy: Thou haſt not in vain invited the heavy la<g ref="char:EOLhyphen"/>den to come unto thee, to call upon thee in the day of trou<g ref="char:EOLhyphen"/>ble, that thou maiſt deliver them, and they glorifie thee. O Lord God of Truth, who never faileſt in any of thy promiſes, now eaſe us, grouing under the heavy burden of our calamities; now hear, and have mercy upon us, who call upon thee out of the deepeſt ſenſe of our troubleſſe and helpleſſe perplexities: and Lord make no long tarrying, leſt we be conſumed by this fierre wrath which is come out of thy preſence againſt us: Wherefore ſhould our adverſa<g ref="char:EOLhyphen"/>ries rejoyce at our ruine, ſeeing thy holy Name is called up<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:169408:3"/>
+among us? Wherefore ſhould our inſulting enemies ſay in our deſtruction, Where is now their God, their Reli<g ref="char:EOLhyphen"/>gion, who thus ſpoyl and deſtroy each other, ſeeing thou haſt given us a glorious light of thy Goſpel, that we might know thée? O Lord, when thou broughteſt our Fathers from the kingdom of darkneſſe, into thy marvellous light, lea<g ref="char:EOLhyphen"/>ving many millions to this day in their ſins, and the region and ſhadow of death; it was not becauſe they (or we, to whom thou continueſt thoſe favours) were better then o<g ref="char:EOLhyphen"/>thers, but for thy own Names ſake, and becauſe thou hadſt a favour to them and us. O Lord let it not ſeem little unto thee, That the paths of Sion mourn, That our fields are waſte, That thy ſervants blood is openly ſhed, That ſo many weeping <hi>Rachells</hi> in the loſſe of their dear children, your out their afflicted ſouls before thee, That ſo many helpleſſe widows, in bitterneſſe of ſpirit, bewail their mur<g ref="char:EOLhyphen"/>dered husbands, That death is come up into our win<g ref="char:EOLhyphen"/>dows, and paleneſſe hath poſſeſſed every face, becauſe fear, horrour, and terrible dread of utter ruine and deſolation ap<g ref="char:EOLhyphen"/>peareth on every ſide. Lord we have ſinned; what ſhall we ſay unto thee, O thou preſerver of man, ſave onely par<g ref="char:EOLhyphen"/>don our ſins? We are guilty, and have nothing to plead be<g ref="char:EOLhyphen"/>fore thee, but onely thine own mercy; nothing to anſwer, but that thy Chriſt hath anſwered for us. O thou God of Truth, who haſt promiſed to hear and grant whatſoever we ask in his Name: now, for his ſake forgive us, now for thy wonted mercy ſake, look upon our afflictions; cauſe the deſtroyers to ſheath the ſword again, that it may not be ex<g ref="char:EOLhyphen"/>treme bitterneſſe in the end: Correct us not in thine anger, chaſten us not in thy heavy diſpleaſure, leſt we be con<g ref="char:EOLhyphen"/>ſumed.</p>
+            <p>Thy mercy is not changed, which wont to pardon and deliver thy ſinning Iſrael, when they cryed unto thée in their diſtreſſes, and to be entreated of them, when they ſought thée and thy ſaving health, though thou correctedſt them with the rods of men; thine ear is not heavy, nor thine arm ſhortned: Lord, therefore in this Iudgement alſo, re<g ref="char:EOLhyphen"/>member mercy; Lord hear the cries of thy faithfull ſer<g ref="char:EOLhyphen"/>vants
+<pb facs="tcp:169408:4"/>
+calling on thée day and night, and giving thée no reſt, untill thou repair; let them through the merit and media<g ref="char:EOLhyphen"/>tion of thy ſon Chriſt Ieſus, prevail againſt all the cry<g ref="char:EOLhyphen"/>ing ſins of this Nation. Lord let thine arm help us, vain is the help of man; neither the counſells of the prudent, nor any arm of fleſh can ſave us; thou onely canſt, thou onely art our refuge; we have none other in heaven or earth to flie unto for deliverance; Lord reject us not who truſt in thée: remove from us all thoſe known and ſecret ſins, which ſeparate betwéen us and thy mercies, which have cauſed thée to take away thy Peace from us, and féed us with the bitter fruits of our own inventions, who loved not the bleſ<g ref="char:EOLhyphen"/>ſings of peace, and they are now far from us: Give us true and unfaigned Repentance, Humiliation, and amendment, from the firſt to the laſt, that thy indignation may ceaſe from us: Heal our rebellions and back-ſlidings; binde up the wounds which our unnaturall and unhappy diviſions have made in this Church and State; cure our diſtempers, reconcile us one to another, and all to thée in Chriſt Ieſus: give us grace to kéep the unity of the Spirit, in the bond of Peace: Reſtore us the life of Religion, beauty of holineſſe, mark of thy ſon Chriſts diſciples, badge of true Chriſti<g ref="char:EOLhyphen"/>ans, ornament of the Goſpel, and the happy condition of the primitive Saints, <hi>Love</hi> and <hi>Charity;</hi> reſtrain all thoſe deſperate ſpirits of Diviſion, which for our unthankfulneſſe and ſurfeiting on thy bleſſings of peace, thou haſt juſtly permitted to come out of the bottomieſſe pit amongſt us: give us in theſe dayes of our viſitation, a prudent know<g ref="char:EOLhyphen"/>ledge of thoſe things which concern our Peace: Take a<g ref="char:EOLhyphen"/>way thoſe fears and jealouſies which now unhappily have armed every man againſt his neighbour: Remove all thoſe Schiſms and Factions which any way obſcure the Lamps of thy Tabernacle, and the light of Truth: Suppreſſe all the ſecret and profeſſed Incendiaries, who kindle ſedition, and endeavour to lay waſte Cities and Villages, and to even the Palace and Cottage in one common ruine.</p>
+            <p>Lord bleſſe thine Anoynted Servant, our Soveraign Lord the King, in the ſafety of His Royall Perſon, Crown
+<pb facs="tcp:169408:4"/>
+and Dignity; in His gracious Conſort, and thoſe hope<g ref="char:EOLhyphen"/>full Plants which thou haſt ſet about his Table, <hi>The Roy<g ref="char:EOLhyphen"/>all Iſſue:</hi> Eſtabliſh His Throne with Righteouſneſſe; Give an happy Vnderſtanding and Accord betwéen Him and His great Counſell the Parliament: Counſell them with thy Wiſedom, let thy fear reſt on them, ſo that all their Conſulations may be bleſſed, that Truth, Iuſtice, and Peace may be reſtored, and abundantly flouriſh amongſt us again, that we may make a right uſe of thy fatherly corrections, by fearing thy holy Name, deteſting and forſaking our ſins, learning hereafter better to value the ſwéet and comfortable fruits of long Peace, by a ſhort want thereof, and praiſing thée for thy clemency and tender mercy, in the Congregation of thy Saints.</p>
+            <p>And now, O Lord, as thou haſt commanded us, we hum<g ref="char:EOLhyphen"/>bly intreat thée, as for our ſelves, ſo for thy diſtreſſed ſer<g ref="char:EOLhyphen"/>vants in <hi>Ireland;</hi> Lord cover their heads in the dayes of Battle, teach their hands to war, and their fingers to fight; leade their Leaders, and counſell their Counſellors, thou who canſt make one to chaſe a thouſand, and as eaſily deliver by few as by many (becauſe thou onely art the Lord of Hoſts, the Battle is thine, and thou only giveſt Victory unto kings) Help them againſt their numerous enemies; Take the Honour unto thine own ſelf (as is moſt due) make it appear to all the world, That thou never rejecteſt the petitions of humble and contrite hearts, nor forſakeſt thoſe who put their truſt in thée: Lord command their deliverance and ours: Let us not be like that diſtreſ<g ref="char:EOLhyphen"/>ſed woman, ſo long languiſhing, till all be ſpent on help<g ref="char:EOLhyphen"/>leſſe Phyſitians; Let our miſeries come ſpeedily into thy gracious preſence, that touching the hem of thy Garment (that tender mercy and compaſſion wherewith thou art clothed) theſe iſſues of blood may ſpéedily be ſtayed. O Lord encline thine ear, and hear us; O Lord conſider and do it: Lord hear our Prayers for them, and theirs for us, and both for thy beloved Son, our bleſſed Lord and Saviour Ieſus Chriſt his ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
